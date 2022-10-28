@@ -1,12 +1,12 @@
-# Hola, soy ImCyan
+# 👋 Hola, soy ImCyan
 # [![Español](https://custom-icon-badges.demolab.com/badge/Español-000000?style=for-the-badge&logo=translate&logoColor=ffffff)](/README.md) [![English](https://custom-icon-badges.demolab.com/badge/English-000000?style=for-the-badge&logo=translate&logoColor=ffffff)](/README-EN.md) [![Français](https://custom-icon-badges.demolab.com/badge/Français-000000?style=for-the-badge&logo=translate&logoColor=ffffff)](/README-FR.md)
 Traducciones en proceso.
 
 ## Información
-- Puedes llamarme Cyan o ImCyan.
-- Soy un programador amateur con experiencia en multiples lenguajes.
-- Tengo conocimientos de diseño gráfico.
-- Sé hablar con fluidez 3 idiomas.
+- 💬 Puedes llamarme Cyan o ImCyan.
+- 💻 Soy un programador amateur con experiencia en multiples lenguajes.
+- 🖌️ Tengo conocimientos de diseño gráfico.
+- 🌍 Sé hablar con fluidez 3 idiomas.
 <!--- https://www.web.com-->
 
 <!--
